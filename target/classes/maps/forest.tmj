@@ -1,0 +1,415 @@
+{ "compressionlevel":-1,
+ "height":16,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+            16, 16, 16, 19, 17, 17, 17, 17, 17, 20, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+            16, 16, 16, 18, 16, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+            16, 16, 16, 18, 16, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+            16, 16, 16, 18, 16, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+            16, 16, 16, 21, 17, 17, 23, 17, 17, 26, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16,
+            16, 16, 16, 16, 16, 16, 18, 16, 16, 18, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16,
+            16, 16, 16, 16, 16, 16, 18, 16, 16, 21, 17, 17, 17, 17, 23, 17, 17, 17, 17, 17,
+            16, 16, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16,
+            16, 16, 16, 16, 19, 17, 22, 16, 16, 16, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16,
+            16, 16, 16, 16, 18, 16, 16, 16, 16, 16, 16, 16, 16, 16, 18, 16, 16, 16, 16, 16,
+            16, 16, 16, 16, 18, 16, 16, 16, 16, 16, 16, 18, 16, 16, 18, 16, 16, 16, 16, 16,
+            16, 16, 16, 16, 18, 16, 16, 19, 17, 17, 17, 25, 17, 17, 22, 16, 16, 16, 16, 16,
+            17, 17, 17, 17, 26, 16, 16, 18, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+            16, 16, 16, 16, 21, 17, 17, 22, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16,
+            16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16],
+         "height":16,
+         "id":1,
+         "name":"Ground Layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166,
+            166, 166, 162, 0, 0, 0, 0, 0, 0, 0, 166, 0, 167, 166, 166, 0, 0, 167, 168, 166,
+            166, 0, 168, 0, 166, 166, 166, 166, 166, 0, 0, 166, 0, 0, 0, 0, 0, 167, 166, 166,
+            166, 168, 166, 0, 166, 0, 0, 0, 166, 0, 166, 168, 0, 0, 0, 0, 0, 166, 166, 166,
+            166, 166, 0, 0, 166, 0, 0, 167, 166, 0, 166, 167, 0, 0, 0, 0, 0, 166, 167, 166,
+            166, 162, 166, 0, 0, 0, 0, 0, 0, 0, 168, 166, 0, 0, 0, 0, 167, 0, 0, 166,
+            166, 166, 166, 168, 166, 166, 0, 0, 166, 0, 161, 0, 162, 167, 0, 0, 161, 166, 168, 166,
+            166, 166, 167, 0, 166, 167, 0, 166, 168, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            166, 167, 168, 166, 162, 0, 0, 168, 166, 0, 143, 144, 135, 162, 0, 161, 166, 167, 162, 166,
+            166, 168, 166, 161, 0, 0, 0, 167, 0, 131, 0, 0, 0, 133, 0, 0, 161, 166, 168, 166,
+            166, 166, 166, 0, 0, 0, 99, 100, 101, 147, 0, 0, 0, 146, 0, 0, 166, 166, 166, 166,
+            166, 167, 168, 166, 0, 106, 103, 0, 105, 166, 136, 0, 138, 167, 0, 162, 168, 167, 167, 166,
+            166, 166, 161, 0, 0, 102, 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 166, 166, 166, 166,
+            0, 0, 0, 0, 0, 162, 112, 0, 114, 166, 166, 167, 166, 168, 166, 0, 167, 166, 166, 166,
+            166, 166, 0, 168, 0, 0, 0, 0, 161, 166, 168, 166, 162, 0, 168, 167, 162, 0, 168, 166,
+            166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166, 166],
+         "height":16,
+         "id":2,
+         "name":"Collision Layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 175, 0, 0, 0,
+            0, 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 175, 0, 0, 0, 0, 0, 175, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 175, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 175, 0, 0, 0, 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 175, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 175, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":16,
+         "id":4,
+         "name":"Decoration Layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 143, 139, 140, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 131, 116, 117, 125, 132, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 147, 123, 121, 145, 146, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 136, 129, 146, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 134, 122, 118, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 123, 124, 145, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 104, 0, 0, 0, 141, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 108, 109, 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 113, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":16,
+         "id":3,
+         "name":"Structure Layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":5,
+         "name":"Object Layer",
+         "objects":[
+                {
+                 "height":23.7587,
+                 "id":1,
+                 "name":"player_spawn",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"mapId",
+                         "type":"string",
+                         "value":"FOREST"
+                        }, 
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"player_spawn"
+                        }, 
+                        {
+                         "name":"target",
+                         "type":"string",
+                         "value":"player"
+                        }, 
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"string"
+                        }],
+                 "rotation":0,
+                 "type":"spawnPoint",
+                 "visible":true,
+                 "width":25.6344,
+                 "x":64,
+                 "y":416
+                }, 
+                {
+                 "height":24.3839,
+                 "id":2,
+                 "name":"npc_samurai_warrior",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"combatAlly",
+                         "type":"string",
+                         "value":"true"
+                        }, 
+                        {
+                         "name":"dialogueId",
+                         "type":"string",
+                         "value":"forest_samurai_1"
+                        }, 
+                        {
+                         "name":"isQuestGiver",
+                         "type":"string",
+                         "value":"true"
+                        }, 
+                        {
+                         "name":"mapId",
+                         "type":"string",
+                         "value":"FOREST"
+                        }, 
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"npc_samurai_warrior"
+                        }, 
+                        {
+                         "name":"npcId",
+                         "type":"string",
+                         "value":"npc_samurai_1"
+                        }, 
+                        {
+                         "name":"npcType",
+                         "type":"string",
+                         "value":"SAMURAI_WARRIOR"
+                        }, 
+                        {
+                         "name":"questId",
+                         "type":"string",
+                         "value":"quest_samurai_training"
+                        }, 
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"string"
+                        }],
+                 "rotation":0,
+                 "type":"npc",
+                 "visible":true,
+                 "width":24.3839,
+                 "x":194.446,
+                 "y":260.72
+                }, 
+                {
+                 "height":23.7587,
+                 "id":3,
+                 "name":"enemy_blue_dragon",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"aggressiveRange",
+                         "type":"string",
+                         "value":"6"
+                        }, 
+                        {
+                         "name":"damage",
+                         "type":"string",
+                         "value":"50"
+                        }, 
+                        {
+                         "name":"dropsItem",
+                         "type":"string",
+                         "value":"dragon_scale"
+                        }, 
+                        {
+                         "name":"enemyId",
+                         "type":"string",
+                         "value":"enemy_dragon_1"
+                        }, 
+                        {
+                         "name":"enemyType",
+                         "type":"string",
+                         "value":"BLUE_DRAGON"
+                        }, 
+                        {
+                         "name":"expReward",
+                         "type":"string",
+                         "value":"500"
+                        }, 
+                        {
+                         "name":"hp",
+                         "type":"string",
+                         "value":"300"
+                        }, 
+                        {
+                         "name":"isBoss",
+                         "type":"string",
+                         "value":"true"
+                        }, 
+                        {
+                         "name":"mapId",
+                         "type":"string",
+                         "value":"FOREST"
+                        }, 
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"enemy_blue_dragon"
+                        }, 
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"string"
+                        }],
+                 "rotation":0,
+                 "type":"npc",
+                 "visible":true,
+                 "width":26.2596,
+                 "x":224.457,
+                 "y":367.635
+                }, 
+                {
+                 "height":25.0092,
+                 "id":4,
+                 "name":"npc_forest_witch",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"canTrade",
+                         "type":"string",
+                         "value":"true"
+                        }, 
+                        {
+                         "name":"dialogueId",
+                         "type":"string",
+                         "value":"forest_witch_1"
+                        }, 
+                        {
+                         "name":"isHostile",
+                         "type":"string",
+                         "value":"false"
+                        }, 
+                        {
+                         "name":"isQuestGiver",
+                         "type":"string",
+                         "value":"true"
+                        }, 
+                        {
+                         "name":"mapId",
+                         "type":"string",
+                         "value":"FOREST"
+                        }, 
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"npc_forest_witch"
+                        }, 
+                        {
+                         "name":"npcId",
+                         "type":"string",
+                         "value":"npc_witch_1"
+                        }, 
+                        {
+                         "name":"npcType",
+                         "type":"string",
+                         "value":"WITCH"
+                        }, 
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"string"
+                        }],
+                 "rotation":0,
+                 "type":"npc",
+                 "visible":true,
+                 "width":28.1353,
+                 "x":451.249,
+                 "y":113.159
+                }, 
+                {
+                 "height":23.7587,
+                 "id":5,
+                 "name":"exit_to_shrine",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"exit_to_shrine"
+                        }, 
+                        {
+                         "name":"targetMap",
+                         "type":"string",
+                         "value":"SHRINE"
+                        }, 
+                        {
+                         "name":"targetSpawn",
+                         "type":"string",
+                         "value":"player_spawn"
+                        }, 
+                        {
+                         "name":"transition",
+                         "type":"string",
+                         "value":"fade"
+                        }, 
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"string"
+                        }],
+                 "rotation":0,
+                 "type":"exitPoint",
+                 "visible":true,
+                 "width":23.7587,
+                 "x":602.721,
+                 "y":227.583
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":6,
+ "nextobjectid":6,
+ "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapId",
+         "type":"string",
+         "value":"FOREST"
+        }, 
+        {
+         "name":"mapType",
+         "type":"string",
+         "value":"NORMAL"
+        }, 
+        {
+         "name":"musicId",
+         "type":"string",
+         "value":"forest_theme"
+        }, 
+        {
+         "name":"saveMode",
+         "type":"string",
+         "value":"SAFE_ZONE_ONLY"
+        }],
+ "renderorder":"right-down",
+ "tiledversion":"1.12.1",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"tilesheet.tsx"
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.10",
+ "width":20
+}

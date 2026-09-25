@@ -58,9 +58,12 @@ The project focuses on implementing a functional trust-based gameplay system com
 |---|---|
 | **Java** | Core game logic and programming |
 | **Maven** | Project and dependency management |
+| **Piskel** | Character sprite creation |
+| **Pixilart** | Tile and pixel-art design |
 | **Tiled** | Tile maps and game environments |
 | **NetBeans** | Development environment |
 | **Git & GitHub** | Version control and project distribution |
+| **ChatGPT & Claude** | Troubleshooting and development assistance |
 
 ---
 
@@ -129,6 +132,16 @@ ANIANA-Trust-System-Game/
 ## 🎓 Project Information
 
 ANIANA was developed collaboratively as part of an academic game development project to apply and demonstrate the programming concepts and skills learned throughout the Intermediate Programming course using NetBeans and Java.
+
+## 💡 Authors
+
+### Kiana Yeo
+🔗 Github: https://github.com/kiacodesss
+
+### Shanen Anne Mirador
+🔗 Github: https://github.com/vanravna
+
+---
 
 ## 📄 License
 

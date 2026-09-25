@@ -12,13 +12,11 @@
 4. Double-click `ANIANA.exe`.
 5. Enjoy the game!
 
-**Platform:** Windows
-
 ---
 
 ## 📖 About the Game
 
-**ANIANA: The Journey of Anne and Kia** is a Java-based trust system game centered around the relationship between two characters, Anne and Kia.
+**ANIANA: The Journey of Anne and Kia** is a Java-based trust system game centered around the journey of two characters, Anne and Kia.
 
 The game explores how player interactions and decisions can affect the level of trust between the characters.
 
@@ -26,7 +24,23 @@ The project focuses on implementing a functional trust-based gameplay system com
 
 ---
 
-## 🎮 Gameplay
+## 📸 Screenshots
+
+### Main Menu
+
+![ANIANA Main Menu](screenshots/main-menu.jpg)
+
+### Gameplay
+
+![ANIANA Map](screenshots/sample-map.jpg)
+
+### Dialogue
+
+![ANIANA Dialogue](screenshots/sample-dialogue.jpg)
+
+---
+
+## 🎮 Gameplay & Features
 
 - 💜 Trust-based interactions
 - 💬 Dialogue and story progression
@@ -38,13 +52,15 @@ The project focuses on implementing a functional trust-based gameplay system com
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies Used
 
-- **Java** – Game logic and programming
-- **Maven** – Project and dependency management
-- **Tiled** – Tile maps and environments
-- **NetBeans** – Development environment
-- **Git & GitHub** – Version control and distribution
+| Technology | Purpose |
+|---|---|
+| **Java** | Core game logic and programming |
+| **Maven** | Project and dependency management |
+| **Tiled** | Tile maps and game environments |
+| **NetBeans** | Development environment |
+| **Git & GitHub** | Version control and project distribution |
 
 ---
 
@@ -68,21 +84,15 @@ The game includes background music and audio integrated into the gameplay experi
 
 ---
 
-## 📸 Screenshots
+## 👩‍💻 My Contributions
 
-### Main Menu
+My contributions to the project included:
 
-![ANIANA Main Menu](screenshots/main-menu.png)
-
-### Gameplay
-
-![ANIANA Gameplay](screenshots/gameplay.png)
-
-### Dialogue
-
-![ANIANA Dialogue](screenshots/dialogue.png)
-
----
+- Designing and integrating Tiled maps into the game
+- Developing and debugging gameplay interactions
+- Implementing the background music system
+- Testing and troubleshooting the application
+- Packaging the game into a standalone Windows application
 
 ## 🏗️ Project Structure
 
@@ -93,3 +103,33 @@ ANIANA-Trust-System-Game/
 ├── pom.xml       # Maven configuration
 ├── README.md     # Project documentation
 └── .gitignore
+```
+
+## 🚀 Running from Source
+
+### Requirements
+
+- Java JDK 25
+- Apache Maven
+- NetBeans (recommended)
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/ANIANA-Trust-System-Game.git
+   ```
+   
+2. Open the project in NetBeans.
+3. Allow Maven to load the required dependencies.
+4. Build the project.
+5. Run the application.
+
+## 🎓 Project Information
+
+ANIANA was developed collaboratively as part of an academic game development project to apply and demonstrate the programming concepts and skills learned throughout the Intermediate Programming course using NetBeans and Java.
+
+## 📄 License
+
+This project is for educational and portfolio purposes.

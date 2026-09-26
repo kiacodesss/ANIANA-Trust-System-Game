@@ -2,16 +2,6 @@
 
 > A story-driven trust system game where player choices influence relationships and shape the journey of Anne and Kia.
 
-## 📥 Download & Play
-
-**[Download ANIANA for Windows](../../releases/latest)**
-
-1. Download `ANIANA.zip` from the latest release.
-2. Extract the ZIP file.
-3. Open the extracted `ANIANA` folder.
-4. Double-click `ANIANA.exe`.
-5. Enjoy the game!
-
 ---
 
 ## 📖 About the Game
@@ -24,21 +14,26 @@ The project focuses on implementing a functional trust-based gameplay system com
 
 ---
 
-## 📸 Screenshots
+## 👀 Preview
 
-### Main Menu
-
-![ANIANA Main Menu](screenshots/main-menu.jpg)
-
-### Gameplay
-
-![ANIANA Map](screenshots/sample-map.jpg)
-
-### Dialogue
-
-![ANIANA Dialogue](screenshots/sample-dialogue.jpg)
-
----
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Main Menu</strong><br><br>
+      <img src="screenshots/main-menu.jpg" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>Gameplay</strong><br><br>
+      <img src="screenshots/sample-map.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Dialogue</strong><br><br>
+      <img src="screenshots/sample-dialogue.jpg" width="60%">
+    </td>
+  </tr>
+</table>
 
 ## 🎮 Gameplay & Features
 
@@ -49,6 +44,26 @@ The project focuses on implementing a functional trust-based gameplay system com
 - 🎵 Background music and audio
 - 🎨 Custom game assets
 - 📖 Story-driven gameplay
+
+---
+
+## 🧩 Key Systems
+
+### ⭐ Trust System
+
+The core gameplay mechanic is a trust system that allows player interactions and decisions to influence the relationship between Anne and Kia.
+
+### ⭐ Dialogue System
+
+Dialogue and interactions are used to progress the story and present different situations to the player.
+
+### ⭐ Tile-Based Maps
+
+Game environments are created using Tiled and integrated into the Java application.
+
+### ⭐ Audio System
+
+The game includes background music and audio integrated into the gameplay experience.
 
 ---
 
@@ -67,26 +82,6 @@ The project focuses on implementing a functional trust-based gameplay system com
 
 ---
 
-## 🧩 Key Systems
-
-### Trust System
-
-The core gameplay mechanic is a trust system that allows player interactions and decisions to influence the relationship between Anne and Kia.
-
-### Dialogue System
-
-Dialogue and interactions are used to progress the story and present different situations to the player.
-
-### Tile-Based Maps
-
-Game environments are created using Tiled and integrated into the Java application.
-
-### Audio System
-
-The game includes background music and audio integrated into the gameplay experience.
-
----
-
 ## 👩‍💻 My Contributions
 
 My contributions to the project included:
@@ -97,16 +92,7 @@ My contributions to the project included:
 - Testing and troubleshooting the application
 - Packaging the game into a standalone Windows application
 
-## 🏗️ Project Structure
-
-```text
-ANIANA-Trust-System-Game/
-├── src/          # Java source code
-├── lib/          # Project libraries
-├── pom.xml       # Maven configuration
-├── README.md     # Project documentation
-└── .gitignore
-```
+---
 
 ## 🚀 Running from Source
 
@@ -121,7 +107,7 @@ ANIANA-Trust-System-Game/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ANIANA-Trust-System-Game.git
+   git clone https://github.com/kiacodesss/ANIANA.git
    ```
    
 2. Open the project in NetBeans.
@@ -129,9 +115,27 @@ ANIANA-Trust-System-Game/
 4. Build the project.
 5. Run the application.
 
+---
+
+## 📦 Release
+
+A ready-to-run release is available under GitHub Releases.
+
+**[Download ANIANA for Windows](../../releases/latest)**
+
+1. Download `ANIANA.zip` from the latest release.
+2. Extract the ZIP file.
+3. Open the extracted `ANIANA` folder.
+4. Double-click `ANIANA.exe`.
+5. Enjoy the game!
+
+---
+
 ## 🎓 Project Information
 
 ANIANA was developed collaboratively as part of an academic game development project to apply and demonstrate the programming concepts and skills learned throughout the Intermediate Programming course using NetBeans and Java.
+
+---
 
 ## 💡 Authors
 
